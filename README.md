@@ -48,9 +48,17 @@ Task 15: Create a cube query using the columns year, city, station, average wast
 Task 16: Create an MQT named max_waste_per_station using the columns city, station, trucktype, max waste collected.
 
 Task 17: Create a pie chart in the dashboard that shows the waste collected by truck type.
+![alt text](https://github.com/aia-elkashef/Design-Data-Warehouses/blob/main/images/17-pie.jpg)
+
 
 Task 18: Create a bar chart in the dashboard that shows the waste collected station wise.
+![alt text](https://github.com/aia-elkashef/Design-Data-Warehouses/blob/main/images/18-bar.jpg)
+
 
 Task 19: Create a line chart in the dashboard that shows the waste collected by month wise.
+![alt text](https://github.com/aia-elkashef/Design-Data-Warehouses/blob/main/images/19-line.jpg)
+
 
 Task 20: Create a pie chart in the dashboard that shows the waste collected by city.
+![alt text](https://github.com/aia-elkashef/Design-Data-Warehouses/blob/main/images/20-pie.jpg)
+
