@@ -1,5 +1,5 @@
 # Design-Data-Warehouses
-This is the Final-project of Getting Started with Data Warehousing and BI Analytics
+#### This is the Final-project of Getting Started with Data Warehousing and BI Analytics Course - IBM Data Engineering PROFESSIONAL CERTIFICATE on Coursera
 
 
 The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like:
